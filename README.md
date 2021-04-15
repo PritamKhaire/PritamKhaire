@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PritamKhaire
 - 👀 I’m interested in ... Artifical Intelligence
-- 🌱 I’m currently learning ... NLP
+- 🌱 I’m currently learning ... NLP - Translator models
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... pzk2206@gmail.com
 
